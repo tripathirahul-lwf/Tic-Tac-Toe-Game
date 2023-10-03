@@ -157,6 +157,9 @@ footer h6{
         margin-top: 1.5rem;
         font-size: 2rem;
     }
+    .line {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 480px) {
@@ -167,9 +170,7 @@ footer h6{
         grid-template-rows: repeat(3, 25vw);
     }
 
-    .line {
-        display: none;
-    }
+   
 
 
 }

@@ -109,6 +109,7 @@ nav ul {
     background: #8127a4;
     width: 0;
     height: 3px;
+    border-radius: 3px;
     position: absolute;
     transition: width 1s ease-in-out;
 }
